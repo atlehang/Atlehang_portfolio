@@ -3,6 +3,7 @@ body,
 header,
 #intro {
   height: 100%;
+  scroll-behavior: smooth;
 }
 
 #intro {
@@ -12,7 +13,7 @@ header,
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  filter: brightness(30%);
+  filter: brightness(40%);
 }
 .mask {
   padding: 300px;
@@ -33,3 +34,7 @@ header,
   .btn:hover {
     background-color: RoyalBlue;
   }
+.footer {
+  background: rgba(0,0,150,0.5);
+  color: dodgerBlue;
+}
