@@ -6,12 +6,13 @@ header,
 }
 
 #intro {
-  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCx_Z4J5YlI171QxmTAR4Blm2xelhaDiplNL9-CDXN3qnF9fif");
+  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY6pZbV3NsrE9tA8Y2dlYbsdLOmZSc1MDqPAkCNVWQ5_xjkbHkCg");
   background-size: cover;
+  background-position: center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  filter: brightness(40%);
+  filter: brightness(30%);
 }
 .mask {
   padding: 300px;
@@ -32,4 +33,3 @@ header,
   .btn:hover {
     background-color: RoyalBlue;
   }
-  
