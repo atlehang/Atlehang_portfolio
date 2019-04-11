@@ -7,12 +7,12 @@ header,
 }
 
 #intro {
-  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY6pZbV3NsrE9tA8Y2dlYbsdLOmZSc1MDqPAkCNVWQ5_xjkbHkCg");
+  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDGpafNDuRwetbh3SgUq0-vq8kUQ5fc4gFFcW4vQ2vB2e6ttm8Wg");
   background-size: cover;
   background-position: center;
-  -webkit-background-size: cover;
+  -webkit-background-size: ;
   -moz-background-size: cover;
-  -o-background-size: cover;
+  -o-background-size: ;
   filter: brightness(40%);
 }
 .mask {
@@ -20,7 +20,7 @@ header,
   color: white;
 }
 .navbar {
-  background: rgba(0,0,150,0.5);
+  background: rgba(20,20,0,0.5);
 }
 .btn {
   background-color: dodgerBlue;
@@ -35,6 +35,6 @@ header,
     background-color: RoyalBlue;
   }
 .footer {
-  background: rgba(0,0,150,0.5);
+  background: rgba(20,20,0,0.5);
   color: dodgerBlue;
 }
